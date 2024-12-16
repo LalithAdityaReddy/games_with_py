@@ -1,2 +1,2 @@
 # rolling_dice_game
-This is a dice rolling game !
+These are some games done using python !
